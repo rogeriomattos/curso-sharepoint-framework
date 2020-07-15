@@ -33,13 +33,13 @@ yo @microsoft/sharepoint
   - What is your Web part description? **PrimeiraWebPart description**
   - Which framework would you like to use? **React**
 
-![Prompts Yeoman](https://github.com/rogeriomattos/curso-sharepoint-framework/blob/master/02%20-%20Criando%20a%20primeira%20WebPart%20e%20entendendo%20a%20estrutura/assets/promptsYeomanSharePoint.PNG)
+![Prompts Yeoman](https://github.com/rogeriomattos/curso-sharepoint-framework/blob/master/02%20-%20Criando%20a%20primeira%20WebPart/assets/promptsYeomanSharePoint.PNG)
 
 Depois de inserido todas essas configurações o Yeoman vai criar todo o projeto da sua WebPart, isso pode levar alguns minutos para terminar.
 
 Quando a criação tiver concluída você verá a seguinte mensagem indicando que a criação foi bem sucedida.
 
-![Criação da WebPart concluída](https://github.com/rogeriomattos/curso-sharepoint-framework/blob/master/02%20-%20Criando%20a%20primeira%20WebPart%20e%20entendendo%20a%20estrutura/assets/WebPartCreated.PNG)
+![Criação da WebPart concluída](https://github.com/rogeriomattos/curso-sharepoint-framework/blob/master/02%20-%20Criando%20a%20primeira%20WebPart/assets/WebPartCreated.PNG)
 
 ### Como Testar a WebPart
 
