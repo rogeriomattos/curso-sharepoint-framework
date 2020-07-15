@@ -5,4 +5,4 @@ Nesse curso vou te ensinar a dar os primeiros passos no desenvolvimento de WebPa
 ### Aulas
 1. [Configuração do ambiente de desenvolvimento](https://github.com/rogeriomattos/curso-sharepoint-framework/tree/master/01%20-%20Configura%C3%A7%C3%A3o%20do%20ambiente%20de%20desenvolvimento)
 
-2. [Criando a primeira WebPart](https://github.com/rogeriomattos/curso-sharepoint-framework/tree/master/02%20-%20Criando%20a%20primeira%20WebPart%20e%20entendendo%20a%20estrutura)
+2. [Criando a primeira WebPart](https://github.com/rogeriomattos/curso-sharepoint-framework/tree/master/02%20-%20Criando%20a%20primeira%20WebPart)
