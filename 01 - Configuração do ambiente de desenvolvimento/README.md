@@ -44,3 +44,6 @@ No terminal insira o comando a seguir para instalar o gerador do Sharepoint Yeom
 ```cmd
   npm install @microsoft/generator-sharepoint --global
 ```
+
+### Próxima aula
+[02 - Criando a primeira WebPart](https://github.com/rogeriomattos/curso-sharepoint-framework/tree/master/02%20-%20Criando%20a%20primeira%20WebPart)
