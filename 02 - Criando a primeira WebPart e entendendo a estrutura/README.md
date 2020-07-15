@@ -24,7 +24,7 @@ yo @microsoft/sharepoint
 
   Esse comando irá iniciar uma serie de perguntas para a configuração do seu projeto inicial, para iniciarmos siga as configurações abaixo:
 
-  - What is your solution name? **N**
+  - What is your solution name? **PrimeiraWebPart**
   - Which baseline packages do you want to target for your component(s)? **SharePoint Online only (latest)**
   - Where do you want to place the files? **Where do you want to place the files?**
   - Do you want to allow the tenant admin the choice of being able to deploy the solution to all sites immediately without running any feature deployment or adding apps in sites? **Y**
