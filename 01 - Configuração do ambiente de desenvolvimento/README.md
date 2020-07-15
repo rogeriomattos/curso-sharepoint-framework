@@ -14,7 +14,7 @@ Após baixado a instalação é simples, basta ir dando next em tudo.
 
 O SPFx atualmente suporta apenas as versões 8 ou 10 do Node.
 
-Para baixar o Node acesse 1 dos links abaixo e escolha a versão correspondente ao seu sistema operacional:
+Para baixar o Node acesse 1 dos links abaixo e escolha a versão correspondente ao seu sistema operacional (Iremos usar a versão 10 no curso):
 
 [Download Node v.8](https://nodejs.org/dist/latest-v8.x/)
 
