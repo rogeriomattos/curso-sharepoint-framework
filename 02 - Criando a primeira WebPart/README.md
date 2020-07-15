@@ -1,5 +1,7 @@
 # Criando a primeira WebPart
 
+> Antes de seguir nessa aula [configure o seu ambiente](https://github.com/rogeriomattos/curso-sharepoint-framework/tree/master/01%20-%20Configura%C3%A7%C3%A3o%20do%20ambiente%20de%20desenvolvimento) primeiro!
+
 Abra o terminal da sua máquina e siga as seguintes etapas:
 
 ### 1. Crie um novo diretório para o seu projeto
