@@ -48,6 +48,7 @@ Para testes o SPFx díspoinibiliza um servidor local, para usar isso basta execu
 ```cmd
 gulp serve
 ```
-Quando executado, o gulp  irá execultar uma serie  de tarefas para criar o seu  servidor local, após concluído a criação será aberto altomaticamente no seu navegador a página do seu servidor local.
+Quando executado, o gulp  irá execultar uma serie  de tarefas para criar o seu  servidor local, após concluído a criação será aberto altomaticamente no seu navegador a página do seu servidor local, como mostra a imagem abaixo.
 
+![Server Local](https://github.com/rogeriomattos/curso-sharepoint-framework/blob/master/02%20-%20Criando%20a%20primeira%20WebPart/assets/localServer.PNG)
 
