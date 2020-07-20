@@ -26,7 +26,7 @@ yo @microsoft/sharepoint
 
   - What is your solution name? **PrimeiraWebPart**
   - Which baseline packages do you want to target for your component(s)? **SharePoint Online only (latest)**
-  - Where do you want to place the files? **Where do you want to place the files?**
+  - Where do you want to place the files? **Use the current folder**
   - Do you want to allow the tenant admin the choice of being able to deploy the solution to all sites immediately without running any feature deployment or adding apps in sites? **Y**
   - Do you want to allow the tenant admin the choice of being able to deploy the solution to all sites immediately without running any feature deployment or adding apps in sites? **N**
   - Which type of client-side component to create? **WebPart**
